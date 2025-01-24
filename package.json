@@ -1,0 +1,23 @@
+{
+  "name": "learning-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitkumar7525/Learning-Express.git"
+  },
+  "author": "Harshit Kumar",
+  "license": "ISC",
+  "type":"module",
+  "bugs": {
+    "url": "https://github.com/harshitkumar7525/Learning-Express/issues"
+  },
+  "homepage": "https://github.com/harshitkumar7525/Learning-Express#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
